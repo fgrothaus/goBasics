@@ -1,3 +1,3 @@
-module opc_ua
+module goBasics
 
 go 1.27.2

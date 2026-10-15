@@ -1,7 +1,7 @@
 package main
 
 import (
-	"opc_ua/basics"
+	"goBasics/basics"
 )
 
 func main() {
